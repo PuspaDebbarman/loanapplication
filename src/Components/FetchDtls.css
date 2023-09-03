@@ -1,0 +1,25 @@
+form {
+    width: 100%;
+}
+
+
+.input-fetch{
+    border: none;
+    background-color: rgb(250,226,226);
+    height: 3em;
+    width: 80%;
+    border-radius: 0.25em;
+    margin: 0 0 20px 0;
+    font-size: 16px;
+    color: black;
+}
+
+.btn-submit{
+    margin-bottom: 10px; 
+    width: 30%;
+    height: 2rem;
+    cursor: pointer;
+    background-color: orange;
+    border-radius: 0.25em;
+    border: none;
+}
